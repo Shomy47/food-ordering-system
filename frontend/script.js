@@ -1,4 +1,4 @@
-// JavaScript code will be added here
+
 document.addEventListener("DOMContentLoaded", function () {
 
     const buttons = document.querySelectorAll(".food button");
