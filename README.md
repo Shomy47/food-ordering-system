@@ -13,4 +13,4 @@ HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## Developer
 Name: Shabani Shomary
-College: collage of bussiness ducation
+: collage of bussiness ducation
